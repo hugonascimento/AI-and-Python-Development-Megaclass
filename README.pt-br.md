@@ -32,6 +32,7 @@ O curso **AI & Python Development Megaclass - 300+ Hands-on Projects** é uma fo
 #### Day 1
 - **day1_exercise1.py**: Programa simples que imprime "Hello world!".
 - **day1_exercise2.py**: Demonstração de variáveis de diferentes tipos de dados e manipulação básica.
+- **hello_world.ipynb**: Versão Jupyter Notebook do programa "Hello world!".
 
 #### Day 2
 - **day2_exercise1.py**: Programa para verificar se um número é primo.
@@ -52,6 +53,7 @@ O curso **AI & Python Development Megaclass - 300+ Hands-on Projects** é uma fo
    ```bash
    python <nome_do_arquivo>.py
    ```
+4. Para Jupyter Notebooks (`.ipynb`), abra-os usando Jupyter Notebook ou JupyterLab.
 
 ## Informações do Curso
 - **Instrutor**: Vivian Aranha

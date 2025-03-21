@@ -32,6 +32,7 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 #### Day 1
 - **day1_exercise1.py**: Simple program that prints "Hello world!".
 - **day1_exercise2.py**: Demonstration of variables of different data types and basic manipulation.
+- **hello_world.ipynb**: Jupyter Notebook version of the "Hello world!" program.
 
 #### Day 2
 - **day2_exercise1.py**: Program to check if a number is prime.
@@ -52,6 +53,7 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
    ```bash
    python <file_name>.py
    ```
+4. For Jupyter Notebooks (`.ipynb`), open them using Jupyter Notebook or JupyterLab.
 
 ## Course Information
 - **Instructor**: Vivian Aranha
