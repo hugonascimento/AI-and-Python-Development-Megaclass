@@ -1,5 +1,4 @@
 # Write a program that takes a number as input and prints whether the number is prime or not.
-
 num = int(input("Enter a number: "))
 
 if num > 1:

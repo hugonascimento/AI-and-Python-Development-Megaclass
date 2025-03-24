@@ -13,7 +13,7 @@ O curso **AI & Python Development Megaclass - 300+ Hands-on Projects** é uma fo
 - Compreender os fundamentos de IA, aprendizado de máquina e aprendizado profundo.
 - Construir e implantar aplicações de IA no mundo real usando Python.
 - Trabalhar com bibliotecas essenciais de IA, como TensorFlow, PyTorch e OpenCV.
-- Desenvolver habilidades práticas por meio de **100+ projetos práticos de IA e Python**.
+- Desenvolver habilidades práticas por meio de **300+ projetos práticos de IA e Python**.
 - Implementar aplicações de IA, como chatbots, sistemas de recomendação e ferramentas de automação.
 - Aprender técnicas de análise, visualização e pré-processamento de dados para modelos de IA.
 - Ganhar experiência em treinamento, avaliação e otimização de modelos.
@@ -28,19 +28,29 @@ O curso **AI & Python Development Megaclass - 300+ Hands-on Projects** é uma fo
 
 ## Estrutura do Repositório
 
-### Week 1
-#### Day 1
+### Semana 1: Fundamentos de Programação Python para Inteligência Artificial
+#### Dia 1: Fundamentos de Programação Python
 - **day1_exercise1.py**: Programa simples que imprime "Hello world!".
 - **day1_exercise2.py**: Demonstração de variáveis de diferentes tipos de dados e manipulação básica.
 - **hello_world.ipynb**: Versão Jupyter Notebook do programa "Hello world!".
 
-#### Day 2
+#### Dia 2: Controle de Fluxo em Python
 - **day2_exercise1.py**: Programa para verificar se um número é primo.
 - **day2_exercise2.py**: Calculadora simples que realiza adição, subtração, multiplicação e divisão.
 - **day2_exercise2_additional.py**: Extensão da calculadora com suporte para cálculo de fatoriais.
+- **day2_exercise_additional_list.py**: Programa para encontrar o maior número em uma lista.
+- **day2_1.py**: Exemplos demonstrando declarações condicionais, loops e controle de fluxo.
 
-#### Day 3
-- **day3_exercise1.py**: (Ainda não implementado).
+#### Dia 3: Funções e Módulos em Python
+- **day3_exercise1.py**: Função recursiva para calcular o fatorial de um número.
+- **day3_exercise2.py**: Script que utiliza um módulo personalizado para operações matemáticas.
+- **math_operations.py**: Módulo personalizado contendo operações aritméticas básicas (adição, subtração, multiplicação e divisão).
+- **day3_exercise2_additional_string_ops.py**: Placeholder para operações com strings.
+- **day3_exercise1_additional_even_odd.py**: Placeholder para uma função que verifica se um número é par ou ímpar.
+- **day3_samples.py**: Código de exemplo demonstrando funções, módulos e escopo.
+
+#### Dia 4: Exercícios Pendentes
+- **day4_exercise1.py**: Placeholder para o exercício do Dia 4.
 
 ### Outros Arquivos
 - **.gitignore**: Configuração para ignorar arquivos desnecessários no repositório.

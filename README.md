@@ -13,7 +13,7 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 - Understand the fundamentals of AI, machine learning, and deep learning.
 - Build and deploy real-world AI applications using Python.
 - Work with essential AI libraries like TensorFlow, PyTorch, and OpenCV.
-- Develop practical skills through **100+ hands-on AI and Python projects**.
+- Develop practical skills through **300+ hands-on AI and Python projects**.
 - Implement AI-powered applications such as chatbots, recommendation systems, and automation tools.
 - Learn data analysis, visualization, and preprocessing techniques for AI models.
 - Gain experience in model training, evaluation, and optimization.
@@ -28,19 +28,29 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 
 ## Repository Structure
 
-### Week 1
-#### Day 1
+### Week 1: Python Programming Basics for Artificial Intelligence
+#### Day 1: Python Programming Basics
 - **day1_exercise1.py**: Simple program that prints "Hello world!".
 - **day1_exercise2.py**: Demonstration of variables of different data types and basic manipulation.
 - **hello_world.ipynb**: Jupyter Notebook version of the "Hello world!" program.
 
-#### Day 2
+#### Day 2: Control Flow in Python
 - **day2_exercise1.py**: Program to check if a number is prime.
 - **day2_exercise2.py**: Simple calculator that performs addition, subtraction, multiplication, and division.
 - **day2_exercise2_additional.py**: Extended calculator with support for factorial calculations.
+- **day2_exercise_additional_list.py**: Program to find the largest number in a list.
+- **day2_1.py**: Examples demonstrating conditional statements, loops, and control flow.
 
-#### Day 3
-- **day3_exercise1.py**: (Not implemented yet).
+#### Day 3: Functions and Modules in Python
+- **day3_exercise1.py**: Recursive function to calculate the factorial of a number.
+- **day3_exercise2.py**: Script using a custom module for mathematical operations.
+- **math_operations.py**: Custom module containing basic arithmetic operations (addition, subtraction, multiplication, and division).
+- **day3_exercise2_additional_string_ops.py**: Placeholder for string operations.
+- **day3_exercise1_additional_even_odd.py**: Placeholder for a function to check if a number is even or odd.
+- **day3_samples.py**: Sample code demonstrating functions, modules, and scope.
+
+#### Day 4: Pending Exercises
+- **day4_exercise1.py**: Placeholder for Day 4 exercise.
 
 ### Other Files
 - **.gitignore**: Configuration to ignore unnecessary files in the repository.

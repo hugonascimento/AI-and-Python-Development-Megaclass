@@ -27,8 +27,16 @@ def factorial(n):
     if n < 0:
         return "Error: Factorial of a negative number is not defined."
     result = 1
-    for i in range(1, int(n) + 1):
-        result *= i
+    counter = 1 # Only used for the while loop
+    
+    while counter <= n:
+        result *= counter
+        counter += 1
+    
+    # Alternative implementation using a for loop    
+    #for i in range(1, int(n) + 1):
+    #    result *= i
+    
     return result
 
 # Define a function to get a valid number from the user
