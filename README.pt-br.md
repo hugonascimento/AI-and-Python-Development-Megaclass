@@ -43,14 +43,15 @@ O curso **AI & Python Development Megaclass - 300+ Hands-on Projects** é uma fo
 
 #### Dia 3: Funções e Módulos em Python
 - **day3_exercise1.py**: Função recursiva para calcular o fatorial de um número.
+- **day3_exercise1_additional_even_odd.py**: Função para verificar se um número é par ou ímpar.
 - **day3_exercise2.py**: Script que utiliza um módulo personalizado para operações matemáticas.
 - **math_operations.py**: Módulo personalizado contendo operações aritméticas básicas (adição, subtração, multiplicação e divisão).
-- **day3_exercise2_additional_string_ops.py**: Placeholder para operações com strings.
-- **day3_exercise1_additional_even_odd.py**: Placeholder para uma função que verifica se um número é par ou ímpar.
+- **day3_exercise2_additional_string_ops.py**: Script que utiliza um módulo personalizado para operações com strings (reverter uma string, contar vogais, verificar palíndromos).
+- **string_operations.py**: Módulo personalizado contendo operações com strings.
 - **day3_samples.py**: Código de exemplo demonstrando funções, módulos e escopo.
 
-#### Dia 4: Exercícios Pendentes
-- **day4_exercise1.py**: Placeholder para o exercício do Dia 4.
+#### Dia 4: Exercícios Avançados
+- **day4_exercise1.py**: Placeholder substituído pela implementação do exercício.
 
 ### Outros Arquivos
 - **.gitignore**: Configuração para ignorar arquivos desnecessários no repositório.

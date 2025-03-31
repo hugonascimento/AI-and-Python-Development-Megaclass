@@ -43,14 +43,15 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 
 #### Day 3: Functions and Modules in Python
 - **day3_exercise1.py**: Recursive function to calculate the factorial of a number.
+- **day3_exercise1_additional_even_odd.py**: Function to check if a number is even or odd.
 - **day3_exercise2.py**: Script using a custom module for mathematical operations.
 - **math_operations.py**: Custom module containing basic arithmetic operations (addition, subtraction, multiplication, and division).
-- **day3_exercise2_additional_string_ops.py**: Placeholder for string operations.
-- **day3_exercise1_additional_even_odd.py**: Placeholder for a function to check if a number is even or odd.
+- **day3_exercise2_additional_string_ops.py**: Script using a custom module for string operations (reverse a string, count vowels, check for palindromes).
+- **string_operations.py**: Custom module containing string operations.
 - **day3_samples.py**: Sample code demonstrating functions, modules, and scope.
 
-#### Day 4: Pending Exercises
-- **day4_exercise1.py**: Placeholder for Day 4 exercise.
+#### Day 4: Advanced Exercises
+- **day4_exercise1.py**: Placeholder replaced with the implementation of the exercise.
 
 ### Other Files
 - **.gitignore**: Configuration to ignore unnecessary files in the repository.
