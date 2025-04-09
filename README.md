@@ -29,19 +29,30 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 ## Repository Structure
 
 ### Week 1: Python Programming Basics for Artificial Intelligence
-#### Day 1: Introduction and Development Setup
+
+<details>
+<summary><strong>Day 1: Introduction and Development Setup</strong></summary>
+
 - **exercise1.py**: Simple program that prints "Hello world!".
 - **exercise2.py**: Demonstration of variables of different data types and basic manipulation.
 - **hello_world.ipynb**: Jupyter Notebook version of the "Hello world!" program.
 
-#### Day 2: Control Flow in Python
+</details>
+
+<details>
+<summary><strong>Day 2: Control Flow in Python</strong></summary>
+
 - **control_flow.py**: Examples demonstrating conditional statements, loops, and control flow.
 - **exercise1.py**: Program to check if a number is prime.
 - **exercise2.py**: Simple calculator that performs addition, subtraction, multiplication, and division.
 - **exercise2_additional.py**: Extended calculator with support for factorial calculations.
 - **exercise_additional_list.py**: Program to find the largest number in a list.
 
-#### Day 3: Functions and Modules in Python
+</details>
+
+<details>
+<summary><strong>Day 3: Functions and Modules in Python</strong></summary>
+
 - **exercise1.py**: Recursive function to calculate the factorial of a number.
 - **exercise1_additional_even_odd.py**: Function to check if a number is even or odd.
 - **exercise2.py**: Script using a custom module for mathematical operations.
@@ -50,14 +61,22 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 - **string_operations.py**: Custom module containing string operations.
 - **samples.py**: Sample code demonstrating functions, modules, and scope.
 
-#### Day 4: Data Structures (Lists, Tuples, Dictionaries, Sets)
+</details>
+
+<details>
+<summary><strong>Day 4: Data Structures (Lists, Tuples, Dictionaries, Sets)</strong></summary>
+
 - **data_structures.py**: Examples of working with lists, tuples, dictionaries, and sets.
 - **exercise1.py**: Manipulate data in a dictionary.
 - **exercise2.py**: Count word frequency in a sentence.
 - **additional_practice1.py**: Reverse a list and remove duplicates.
 - **additional_practice2.py**: Store student grades, calculate averages, and find highest/lowest grades.
 
-#### Day 5: Working with Strings
+</details>
+
+<details>
+<summary><strong>Day 5: Working with Strings</strong></summary>
+
 - **strings.py**: Examples of string manipulation.
 - **regex.py**: Examples of using regular expressions.
 - **regular_expressions.py**: Additional examples of regex usage.
@@ -67,13 +86,23 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 - **additional_practice2.py**: Count the number of vowels and consonants in a string.
 - **additional_practice3.py**: Find and replace a substring within a string.
 
-#### Day 6: File Handling
+</details>
+
+<details>
+<summary><strong>Day 6: File Handling</strong></summary>
+
 - **exercise1.py**: Basic file handling operations.
 - **additional_practice1.py**, **additional_practice2.py**: Additional file handling exercises.
 
-#### Day 7: Pythonic Code and Project Work
+</details>
+
+<details>
+<summary><strong>Day 7: Pythonic Code and Project Work</strong></summary>
+
 - **exercise1.py**: Writing clean and Pythonic code.
 - **additional_practice1.py**, **additional_practice2.py**: Additional exercises for writing Pythonic code.
+
+</details>
 
 ### Other Files
 - **.gitignore**: Configuration to ignore unnecessary files in the repository.
