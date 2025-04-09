@@ -51,7 +51,10 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 - **day3_samples.py**: Sample code demonstrating functions, modules, and scope.
 
 #### Day 4: Advanced Exercises
-- **day4_exercise1.py**: Placeholder replaced with the implementation of the exercise.
+- **day4_exercise1.py**: Manipulate data in a dictionary.
+- **day4_exercise2.py**: Count word frequency in a sentence.
+- **day4_additional_practice1.py**: Reverse a list and remove duplicates.
+- **day4_additional_practice2.py**: Store student grades, calculate averages, and find highest/lowest grades.
 
 ### Other Files
 - **.gitignore**: Configuration to ignore unnecessary files in the repository.
@@ -68,8 +71,8 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 
 ## Course Information
 - **Instructor**: Vivian Aranha
-- **Rating**: 4.8/5 (based on 7 reviews)
-- **Enrolled Students**: 2,079
+- **Rating**: 4.6/5 (based on 15 reviews)
+- **Enrolled Students**: 2,140
 - **Last Updated**: March 2025
 - **Language**: English
 - **Includes**:
