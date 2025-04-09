@@ -29,32 +29,51 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 ## Repository Structure
 
 ### Week 1: Python Programming Basics for Artificial Intelligence
-#### Day 1: Python Programming Basics
-- **day1_exercise1.py**: Simple program that prints "Hello world!".
-- **day1_exercise2.py**: Demonstration of variables of different data types and basic manipulation.
+#### Day 1: Introduction and Development Setup
+- **exercise1.py**: Simple program that prints "Hello world!".
+- **exercise2.py**: Demonstration of variables of different data types and basic manipulation.
 - **hello_world.ipynb**: Jupyter Notebook version of the "Hello world!" program.
 
 #### Day 2: Control Flow in Python
-- **day2_exercise1.py**: Program to check if a number is prime.
-- **day2_exercise2.py**: Simple calculator that performs addition, subtraction, multiplication, and division.
-- **day2_exercise2_additional.py**: Extended calculator with support for factorial calculations.
-- **day2_exercise_additional_list.py**: Program to find the largest number in a list.
-- **day2_1.py**: Examples demonstrating conditional statements, loops, and control flow.
+- **control_flow.py**: Examples demonstrating conditional statements, loops, and control flow.
+- **exercise1.py**: Program to check if a number is prime.
+- **exercise2.py**: Simple calculator that performs addition, subtraction, multiplication, and division.
+- **exercise2_additional.py**: Extended calculator with support for factorial calculations.
+- **exercise_additional_list.py**: Program to find the largest number in a list.
 
 #### Day 3: Functions and Modules in Python
-- **day3_exercise1.py**: Recursive function to calculate the factorial of a number.
-- **day3_exercise1_additional_even_odd.py**: Function to check if a number is even or odd.
-- **day3_exercise2.py**: Script using a custom module for mathematical operations.
+- **exercise1.py**: Recursive function to calculate the factorial of a number.
+- **exercise1_additional_even_odd.py**: Function to check if a number is even or odd.
+- **exercise2.py**: Script using a custom module for mathematical operations.
 - **math_operations.py**: Custom module containing basic arithmetic operations (addition, subtraction, multiplication, and division).
-- **day3_exercise2_additional_string_ops.py**: Script using a custom module for string operations (reverse a string, count vowels, check for palindromes).
+- **exercise2_additional_string_ops.py**: Script using a custom module for string operations (reverse a string, count vowels, check for palindromes).
 - **string_operations.py**: Custom module containing string operations.
-- **day3_samples.py**: Sample code demonstrating functions, modules, and scope.
+- **samples.py**: Sample code demonstrating functions, modules, and scope.
 
-#### Day 4: Advanced Exercises
-- **day4_exercise1.py**: Manipulate data in a dictionary.
-- **day4_exercise2.py**: Count word frequency in a sentence.
-- **day4_additional_practice1.py**: Reverse a list and remove duplicates.
-- **day4_additional_practice2.py**: Store student grades, calculate averages, and find highest/lowest grades.
+#### Day 4: Data Structures (Lists, Tuples, Dictionaries, Sets)
+- **data_structures.py**: Examples of working with lists, tuples, dictionaries, and sets.
+- **exercise1.py**: Manipulate data in a dictionary.
+- **exercise2.py**: Count word frequency in a sentence.
+- **additional_practice1.py**: Reverse a list and remove duplicates.
+- **additional_practice2.py**: Store student grades, calculate averages, and find highest/lowest grades.
+
+#### Day 5: Working with Strings
+- **strings.py**: Examples of string manipulation.
+- **regex.py**: Examples of using regular expressions.
+- **regular_expressions.py**: Additional examples of regex usage.
+- **exercise1.py**: Basic string operations.
+- **exercise2.py**: Advanced string operations.
+- **additional_practice1.py**: Reverse a string and check if it is a palindrome.
+- **additional_practice2.py**: Count the number of vowels and consonants in a string.
+- **additional_practice3.py**: Find and replace a substring within a string.
+
+#### Day 6: File Handling
+- **exercise1.py**: Basic file handling operations.
+- **additional_practice1.py**, **additional_practice2.py**: Additional file handling exercises.
+
+#### Day 7: Pythonic Code and Project Work
+- **exercise1.py**: Writing clean and Pythonic code.
+- **additional_practice1.py**, **additional_practice2.py**: Additional exercises for writing Pythonic code.
 
 ### Other Files
 - **.gitignore**: Configuration to ignore unnecessary files in the repository.
@@ -84,5 +103,3 @@ The **AI & Python Development Megaclass - 300+ Hands-on Projects** is a comprehe
 
 ## Objective
 This course is ideal for beginners and professionals who want to learn Python and AI through practical, real-world projects. By the end of the course, you will have a robust portfolio to showcase your skills in AI and Python.
-
----

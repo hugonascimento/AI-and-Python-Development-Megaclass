@@ -29,32 +29,51 @@ O curso **AI & Python Development Megaclass - 300+ Hands-on Projects** é uma fo
 ## Estrutura do Repositório
 
 ### Semana 1: Fundamentos de Programação Python para Inteligência Artificial
-#### Dia 1: Fundamentos de Programação Python
-- **day1_exercise1.py**: Programa simples que imprime "Hello world!".
-- **day1_exercise2.py**: Demonstração de variáveis de diferentes tipos de dados e manipulação básica.
+#### Dia 1: Introdução e Configuração do Ambiente
+- **exercise1.py**: Programa simples que imprime "Hello world!".
+- **exercise2.py**: Demonstração de variáveis de diferentes tipos de dados e manipulação básica.
 - **hello_world.ipynb**: Versão Jupyter Notebook do programa "Hello world!".
 
 #### Dia 2: Controle de Fluxo em Python
-- **day2_exercise1.py**: Programa para verificar se um número é primo.
-- **day2_exercise2.py**: Calculadora simples que realiza adição, subtração, multiplicação e divisão.
-- **day2_exercise2_additional.py**: Extensão da calculadora com suporte para cálculo de fatoriais.
-- **day2_exercise_additional_list.py**: Programa para encontrar o maior número em uma lista.
-- **day2_1.py**: Exemplos demonstrando declarações condicionais, loops e controle de fluxo.
+- **control_flow.py**: Exemplos demonstrando declarações condicionais, loops e controle de fluxo.
+- **exercise1.py**: Programa para verificar se um número é primo.
+- **exercise2.py**: Calculadora simples que realiza adição, subtração, multiplicação e divisão.
+- **exercise2_additional.py**: Extensão da calculadora com suporte para cálculo de fatoriais.
+- **exercise_additional_list.py**: Programa para encontrar o maior número em uma lista.
 
 #### Dia 3: Funções e Módulos em Python
-- **day3_exercise1.py**: Função recursiva para calcular o fatorial de um número.
-- **day3_exercise1_additional_even_odd.py**: Função para verificar se um número é par ou ímpar.
-- **day3_exercise2.py**: Script que utiliza um módulo personalizado para operações matemáticas.
+- **exercise1.py**: Função recursiva para calcular o fatorial de um número.
+- **exercise1_additional_even_odd.py**: Função para verificar se um número é par ou ímpar.
+- **exercise2.py**: Script que utiliza um módulo personalizado para operações matemáticas.
 - **math_operations.py**: Módulo personalizado contendo operações aritméticas básicas (adição, subtração, multiplicação e divisão).
-- **day3_exercise2_additional_string_ops.py**: Script que utiliza um módulo personalizado para operações com strings (reverter uma string, contar vogais, verificar palíndromos).
+- **exercise2_additional_string_ops.py**: Script que utiliza um módulo personalizado para operações com strings (reverter uma string, contar vogais, verificar palíndromos).
 - **string_operations.py**: Módulo personalizado contendo operações com strings.
-- **day3_samples.py**: Código de exemplo demonstrando funções, módulos e escopo.
+- **samples.py**: Código de exemplo demonstrando funções, módulos e escopo.
 
-#### Dia 4: Exercícios Avançados
-- **day4_exercise1.py**: Manipular dados em um dicionário.
-- **day4_exercise2.py**: Contar a frequência de palavras em uma frase.
-- **day4_additional_practice1.py**: Reverter uma lista e remover duplicatas.
-- **day4_additional_practice2.py**: Armazenar notas de alunos, calcular médias e encontrar as maiores/menores notas.
+#### Dia 4: Estruturas de Dados (Listas, Tuplas, Dicionários, Conjuntos)
+- **data_structures.py**: Exemplos de trabalho com listas, tuplas, dicionários e conjuntos.
+- **exercise1.py**: Manipular dados em um dicionário.
+- **exercise2.py**: Contar a frequência de palavras em uma frase.
+- **additional_practice1.py**: Reverter uma lista e remover duplicatas.
+- **additional_practice2.py**: Armazenar notas de alunos, calcular médias e encontrar as maiores/menores notas.
+
+#### Dia 5: Trabalhando com Strings
+- **strings.py**: Exemplos de manipulação de strings.
+- **regex.py**: Exemplos de uso de expressões regulares.
+- **regular_expressions.py**: Exemplos adicionais de uso de regex.
+- **exercise1.py**: Operações básicas com strings.
+- **exercise2.py**: Operações avançadas com strings.
+- **additional_practice1.py**: Reverter uma string e verificar se é um palíndromo.
+- **additional_practice2.py**: Contar o número de vogais e consoantes em uma string.
+- **additional_practice3.py**: Encontrar e substituir uma substring dentro de uma string.
+
+#### Dia 6: Manipulação de Arquivos
+- **exercise1.py**: Operações básicas de manipulação de arquivos.
+- **additional_practice1.py**, **additional_practice2.py**: Exercícios adicionais de manipulação de arquivos.
+
+#### Dia 7: Código Pythonico e Trabalho em Projetos
+- **exercise1.py**: Escrevendo código limpo e Pythonico.
+- **additional_practice1.py**, **additional_practice2.py**: Exercícios adicionais para escrever código Pythonico.
 
 ### Outros Arquivos
 - **.gitignore**: Configuração para ignorar arquivos desnecessários no repositório.
